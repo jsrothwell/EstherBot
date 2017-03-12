@@ -1,9 +1,10 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Jamieson Rothwell, a UX Designer from Vancouver.\nWant to learn more about Jamieson?  %[Learn about Jamieson](postback:learn_about_jamieson) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, are you looking to add a bit more UX talent to your team? Or maybe you want to %[connect on LinkedIn](https://www.linkedin.com/in/jamieson-rothwell-1329524/)",
+    "HELLO": "Hi There, are you looking to add a bit more UX talent to your team? Or maybe you want to %[connect on LinkedIn](https://www.linkedin.com/in/jamieson-rothwell-1329524/) with Jamieson",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
-    "JESUS": "Hey Watch it."
+    "JESUS": "Hey Watch it.",
+    "LEARN ABOUT JAMIESON": "I can tell you a bunch of stuff about Esther. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career) %[I want to chat with Esther](postback:connect_me)""
 }
