@@ -3,6 +3,7 @@
     "HELLO": "Hi There, are you looking to add a bit more UX talent to your team? Or maybe you want to %[connect on LinkedIn](https://www.linkedin.com/in/jamieson-rothwell-1329524/) with Jamieson",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "LEARN ABOUT ESTHER": "I can tell you a bunch of stuff about Esther. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career) %[I want to chat with Esther](postback:connect_me)",
     "HALLO": "Hallo back, but just so you know – I only speak English though.",
     "LOL": "I love it when humans laugh!",
     "HELP": "I'm sorry you're lost! You can say BOT to start over.",
