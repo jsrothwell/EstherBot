@@ -1,6 +1,10 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "BOT": "Hi there!\nI’m the personal bot of Jamieson Rothwell, a UX Designer from Vancouver.\nWant to learn more about Jamieson?  %[Learn about Jamieson](postback:learn_about_jamieson) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, are you looking to add a bit more UX talent to your team? Or maybe you want to view my <a href="https://ca.linkedin.com/pub/jamieson-rothwell/4/952/132">
+
+          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_greytxt_80x15.png" width="80" height="15" border="0" alt="View Jamieson Rothwell's profile on LinkedIn">
+
+    </a>",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
