@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Jamieson Rothwell, a UX Designer from Vancouver.\nWant to learn more about Jamieson?  %[Learn about Jamieson](postback:learn_about_jamieson) %[Connect me](postback:connect_me_live)",
+    "BOT": "Hi there!\nI’m the personal bot of Jamieson Rothwell, a UX Designer from Vancouver.\nWant to learn more about Jamieson?  %[Learn about Jamieson](postback:learn_about_jamieson) %[Connect me](postback:connect_me)",
     "HELLO": "Hi There, are you looking to add a bit more UX talent to your team? Or maybe you want to %[connect on LinkedIn](https://www.linkedin.com/in/jamieson-rothwell-1329524/) with Jamieson",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
