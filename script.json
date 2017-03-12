@@ -6,5 +6,5 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "JESUS": "Hey Watch it.",
-    "LEARN ABOUT JAMIESON": "I can tell you a bunch of stuff about Esther. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career) %[I want to chat with Esther](postback:connect_me)""
+    "LEARN ABOUT JAMIESON": "I can tell you a bunch of stuff about Jamieson. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career) %[I want to chat with Esther](postback:connect_me)"
 }
