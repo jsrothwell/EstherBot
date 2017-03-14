@@ -40,7 +40,7 @@
     "HMM": "Thinking eh?",
     "OK": "Great",
     "SURE": "Great",
-    "HOLY FUCK": "(%[Tweet]postback:twitter)",
+    "HOLY FUCK": "%[Tweet](postback:twitter)",
     "FUCK": "No thanks",
     "FUCK YOU": "How rude!",
     "FUCK OFF": "No thanks",
