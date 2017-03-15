@@ -7,7 +7,6 @@
     "LEARN ABOUT JAMIESON": "I can tell you a bunch of stuff about Jamieson. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)",
     "DONE": "Ok, cool. There's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career) %[I want to chat with Jamieson](postback:connect_me)",
     "CHILDHOOD": "Jamieson grew up in Kitchener Canada. He spent his childhood summers playing on the beaches of Lake Huron in a town called Kincardine. ![Kincardine Beach](https://en.wikipedia.org/wiki/Kitchener,_Ontario) \nBtw if you ever want to chat about something else, just say 'done'. %[I want to learn about his education](postback:education)",
-    "I WANT MORE DETAILS ABOUT HIS FAMILY": "His parents we're married in 1966 and recently celebrated their 50th anniversary.\nHis sister lives in Toronto and works as a teacher and he has two nieces in Toronto and one in Calgary",
     "EDUCATION": "Jamieson went to University of Waterloo where he received a degree in Geography, While he was a student he discovered the then new web and a lifelong journey began.\nLater in life Jamieson went back to school and received a diploma in Visual Effects for Film and Television. Though the skills learned might not seem like an asset to UI design, they have been invaluable for finding dynamic new ideas for UX challenges. %[Career](postback:career)",
     "WHY LONDON?": "Jamieson had a grandmother who was born in London, which meant he was able to gain a work visa. \nWhile in London, and working for a marketing agency in Notting Hill, Jamieson had a conversation with a person long forgotten that introduced him to the idea of working online. Soon after Jamieson became one of the early professional web designers in the UK. %[Channel Four](postback:channel_four) %[Sony Europe](postback:sony_europe) %[APL/Zentropy](postback:apl_zentropy)  %[Career](postback:career)",
     "CHANNEL FOUR": "Jamieson was employed as the Channel 4 Web Manager in charge of online educational programming. \nBasically, he designed websites for home improvement programs, gardening and cooking programs and Sesame Street. \nIn addition to this, Jamieson collaborated with the British Dyslexia Society in creating the first dyslexia friendly online presence, years before text readers were created. This created an interest in highly accessible online experiences that continue to this day. %[Career](postback:career)",
@@ -61,5 +60,5 @@
     "SLEEP": "",
     "WAKE UP": "Hey there, JamiesonBot is back.",
     "JESUS": "Hey Watch it.",
-    "UGH" : "Something bothering you about the bot? %[Send Jamieson a note](mailto:jamiesonrothwell?subject=BotIssues)"
+    "UGH" : "Something bothering you about the bot? %[Send Jamieson a note](mailto://jamiesonrothwell?subject=BotIssues)"
 }
