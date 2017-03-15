@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Jamieson Rothwell, a UX Designer from Vancouver.\nWant to learn more about Jamieson?  %[Learn about Jamieson](postback:learn_about_jamieson) %[Connect me](postback:connect_me)  %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Jamieson Rothwell, a UX Designer from Vancouver.\n ![Jamieson Rothwell](http://jamiesonrothwell.design/images/headshot.jpg)\nWant to learn more about Jamieson?  %[Learn about Jamieson](postback:learn_about_jamieson) %[Connect me](postback:connect_me)  %[One random fact!](postback:random_fact)",
     "HELLO": "Hi There, are you looking to add a bit more UX talent to your team?  %[Learn about Jamieson](postback:learn_about_jamieson) \nOr maybe you want to %[connect on LinkedIn](https://www.linkedin.com/in/jamieson-rothwell-1329524/) with Jamieson",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "ONE RANDOM FACT!": "Jamieson didnt own a computer until he was 33. He learned how to program using borrowed time on friends machines and any free computer he could fine. Learning Photoshop after hours at work Jamieson was determined to become a designer. %[I want another](postback:want_another)",
