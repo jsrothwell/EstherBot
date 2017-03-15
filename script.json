@@ -3,7 +3,7 @@
     "HELLO": "Hi There, are you looking to add a bit more UX talent to your team? Or maybe you want to %[connect on LinkedIn](https://www.linkedin.com/in/jamieson-rothwell-1329524/) with Jamieson",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT WITH JAMIESON": "Sweet! She loves getting intros from EstherBot. You can either tweet her or connect directly to chat with her.\nIf you've got feedback or an opportunity, don't be shy! %[Tweet to Esther](http://bit.ly/estherbot-twt) %[Connect me](postback:connect_me_live) %[Learn more](postback:learn_more)",
-    "LEARN ABOUT JAMIESON": "I can tell you a bunch of stuff about Jamieson. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career) %[I want to chat with Jamie](postback:connect_me)",
+    "LEARN ABOUT JAMIESON": "I can tell you a bunch of stuff about Jamieson. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)",
     "DONE": "Ok, cool. There's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career) %[I want to chat with Jamieson](postback:connect_me)",
     "CHILDHOOD": "Jamieson had a pretty nice childhood.\nHe grew up in Kitchener Canada. He has a younger sister and spent his childhood summers playing on the beach of Lake Huron in a town called Kincardine. Btw if you ever want to chat about something else, just say 'done'. %[I want more details about his family](postback:childhood_family)",
     "I WANT MORE DETAILS ABOUT HIS FAMILY": "His parents we're married in 1966 and recently celebrated their 50th anniversary.\nHis sister lives in Toronto and works as a teacher and he has two nieces in Toronto and one in Calgary",
@@ -46,7 +46,7 @@
     "FUCK OFF": "No thanks",
     "WHAT ARE YOU?": "I'm a bot.",
     "WHAT ARE YOU": "I'm a bot.",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back.",
+    "SLEEP": "Okay, I'm going to sleep now. Type WAKE UP when you want me back.",
+    "DISCONNECT": "Hey there, JamiesonBot is back.",
     "JESUS": "Hey Watch it."
 }
