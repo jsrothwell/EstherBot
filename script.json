@@ -61,5 +61,5 @@
     "SLEEP": "",
     "WAKE UP": "Hey there, JamiesonBot is back.",
     "JESUS": "Hey Watch it.",
-    "UGH" : "Something bothering you about the bot? [Does this help](mailto:jamiesonrothwell?subject='Problems with your bot')"
+    "UGH" : "Something bothering you about the bot? <a href="mailto:jamiesonrothwell?subject='Problems with your bot'">Send me an email</a>"
 }
